@@ -28,7 +28,7 @@ async def start(client, message):
                 [
                     InlineKeyboardButton(BUTTON1, url=GITCLONE)
                  ],[
-                    InlineKeyboardButton(ᴏᴡɴᴇʀ🦁, url=f"https://telegram.dog/{Config.OWNER}"),
+                    InlineKeyboardButton(ᴏᴡɴᴇʀ, url=f"https://telegram.dog/{Config.OWNER}"),
                     InlineKeyboardButton(ABS, url=B2)
             ]
           ]
