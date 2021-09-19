@@ -13,7 +13,7 @@ ABS="ᴅᴇᴠ🦸"
 APPER="https://t.me/Mastro_updates/13"
 OWNER="ᴏᴡɴᴇʀ🦁"
 GITCLONE="https://t.me/mastro_support"
-B2="telegram.dog/shamilhabeeb"
+B2="https://t.me/Mastro_updates/13"
 BUTTON1="Sᴜᴘᴘᴏʀᴛ🧚"
 
 def time_to_seconds(time):
